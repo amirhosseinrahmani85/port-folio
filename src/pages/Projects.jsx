@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import logo from '../image/Logo.png'
 import Coffe_project from '../image/Coffe_project.png'
 import Cripto_project from '../image/Cripto_project.png'
-import Shoping_project from '../image/Shoping_project.png'
+import Shoping_project from '../image/shoping_project.png'
 const projects = [
   {
     id: 1,
